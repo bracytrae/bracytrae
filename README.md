@@ -8,7 +8,7 @@
 
 ## About Me
 
-I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible curated tools.
+I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible curated tools. 
 
 ---
 
