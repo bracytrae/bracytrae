@@ -108,7 +108,7 @@ I want my work to support people who are often misunderstood, overwhelmed, or un
 
 ## Learning Collections
 
-smaller exercises are grouped into collection repositories so my profile stays easier to navigate:
+smaller exercises are grouped into collection repositories so my profile stays easier to navigate: 
 
 - [bracytrae/py-practice-coll.](https://github.com/bracytrae/py-practice-coll.)
 - [bracytrae/jv-practice-coll.](https://github.com/bracytrae/jv-practice-coll.)
