@@ -17,6 +17,7 @@ I want to build software that helps neurodivergent people, caregivers, and behav
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-9BE9A8?style=for-the-badge&logo=python&logoColor=black" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-9BE9A8?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-9BE9A8?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img alt="java" src="https://img.shields.io/badge/java-9BE9A8?style=for-the-badge&logo=coffeescript&logoColor=black" />
   <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-9BE9A8?style=for-the-badge&logo=cplusplus&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/html5-9BE9A8?style=for-the-badge&logo=html5&logoColor=black" />
