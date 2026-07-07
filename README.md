@@ -64,6 +64,7 @@ I want to build software that helps neurodivergent people, caregivers, and behav
 
 I'm building toward software that helps with:
 
+- focused improvement and strength for the languages css, javascript + react, and more practice w/ different tech stacks. 
 - tracking behavioral health progress
 - organizing session, goal, and learning data
 - supporting neurodivergent students and families
