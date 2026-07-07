@@ -8,7 +8,7 @@
 
 ## About Me
 
-Strongest language = Python. My Superpower = Python; it anchors my growth mindset and helps me transition to other languages if needed. Examples include Java & C++, which are among my favorite backend programming languages. 
+Strongest language = Python & My Superpower = Python; it anchors my growth mindset and helps me transition to other languages if needed. Examples include Java & C++, which are among my favorite backend programming languages. 
 
 I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible curated tools. 
 
