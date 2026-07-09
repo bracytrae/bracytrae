@@ -98,7 +98,7 @@ I'm building toward software that helps with:
 
 ## Project Philosophy
 
-My goal is not just to program, but to build systems that are clear, useful, and connected to real human needs.
+My goal is not just to program, but to build systems that are clear, authentic, useful, and connected to real human needs.
 
 ---
 
