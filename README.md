@@ -8,9 +8,9 @@
 
 ## About Me
 
-Strongest language = Python & My Superpower = Python; it anchors my growth mindset and helps me transition to other languages if needed. Examples include Java & C++, which are among my favorite backend programming languages.
+Python is my strongest language and the foundation I use to grow into Java, C++, and other technologies.
 
-I want to build software that helps neurodivergent people, caregivers, and behavioral health teams through structured, meaningful, and accessible curated tools. 
+I’m working toward becoming a backend/software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
 ---
 
@@ -61,53 +61,12 @@ I want to build software that helps neurodivergent people, caregivers, and behav
 
 ---
 
-## Technical Direction
+## What I'm Building Toward
 
-I'm building toward software that helps with:
-
-- focused improvement and strength for the languages css, javascript + react, and more practice w/ different tech stacks. 
-- tracking behavioral health progress
-- organizing session, goal, and learning data
-- supporting neurodivergent students and families
-- helping care teams, learners, and families better understand progress
-- turning complex information into clear systems
-
----
-
-## Project Ideas I'm Building Toward
-
-| project type | purpose |
-| --- | --- |
-| behavioral progress tracker | track goals, behaviors, sessions, and progress over time |
-| neurodivergent study planner | help students structure learning in a low-overwhelm way |
-| education data dashboard | organize learning progress into clear visual summaries |
-| backend APIs for support systems | store and retrieve care or learning data reliably |
-
----
-
-## Focus Areas
-
-- backend/software engineering
-- behavioral health technology
-- autism support tools
-- human-centered data systems
-- ui planning, diagrams, & visual structure
-- java & python development
-- data structures, algorithms, and discrete math fundamentals
-
----
-
-## Project Philosophy
-
-My goal is not just to program, but to build systems that are clear, authentic, useful, and connected to real human needs.
-
----
-
-## Long-Term Goal
-
-My long-term goal is to become a backend/software engineer building technology for behavioral health, autism support, or human-centered data systems.
-
-I want my work to support people who are often misunderstood, overwhelmed, or underserved by traditional systems.
+- behavioral progress trackers for goals, sessions, and progress over time
+- low-overwhelm study and learning tools for neurodivergent students
+- clear education and behavioral health data dashboards
+- reliable backend APIs for human-centered support systems
 
 ---
 
