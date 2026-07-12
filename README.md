@@ -53,7 +53,7 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 <p align="center">
   <img alt="macos" src="https://img.shields.io/badge/macos-9BE9A8?style=for-the-badge&logo=apple&logoColor=black" />
-  <img alt="windows" src="https://img.shields.io/badge/windows-9BE9A8?style=for-the-badge&logo=windows11&logoColor=black" />
+  <img alt="windows" src="https://img.shields.io/badge/windows-9BE9A8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwMCIgZD0iTTEgMy40IDEwLjUgMnY5SDFWMy40em0xMC41LTEuNkwyMyAwdjExSDExLjVWMS44ek0xIDEyaDkuNXY5TDEgMTkuNlYxMnptMTAuNSAwSDIzdjEybC0xMS41LTEuOFYxMnoiLz48L3N2Zz4%3D&logoColor=black" />
 </p>
 
 ---
