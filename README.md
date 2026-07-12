@@ -49,6 +49,15 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 ---
 
+## Operating Systems
+
+<p align="center">
+  <img alt="macos" src="https://img.shields.io/badge/macos-9BE9A8?style=for-the-badge&logo=apple&logoColor=black" />
+  <img alt="windows" src="https://img.shields.io/badge/windows-9BE9A8?style=for-the-badge&logo=windows11&logoColor=black" />
+</p>
+
+---
+
 ## Featured Work
 
 | project | what it shows |
