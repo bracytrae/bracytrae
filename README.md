@@ -61,10 +61,6 @@ C++ · Java · JavaScript · Python · HTML
 
 ## Learning Collections
 
-smaller exercises are grouped into collection repositories so my profile stays easier to navigate: 
+smaller working exercises are grouped in one repository so my profile stays easier to navigate:
 
-- [bracytrae/py-practice-coll.](https://github.com/bracytrae/py-practice-coll.)
-- [bracytrae/jv-practice-coll.](https://github.com/bracytrae/jv-practice-coll.)
-- [bracytrae/cpp-practice-coll.](https://github.com/bracytrae/cpp-practice-coll.)
-- [bracytrae/web-dsgn-practice-coll.](https://github.com/bracytrae/web-dsgn-practice-coll.)
-- [bracytrae/fizzbuzz-practice-coll.](https://github.com/bracytrae/fizzbuzz-practice-coll.)
+- [bracytrae/practice-coll.](https://github.com/bracytrae/practice-coll.)
