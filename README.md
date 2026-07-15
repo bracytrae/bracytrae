@@ -16,49 +16,25 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 ## Tech Stack
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Java
-- C++
-- HTML5
-- CSS
-- JavaScript
-- Lua
-- React
+Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · React
 
 ---
 
 ## Development Tools
 
-- Git
-- GitHub
-- Codex
-- Figma
-- Lucidchart
-- Command Line
-- VS Code
-- IntelliJ IDEA
-- PyCharm
-- CLion
+Git · GitHub · Codex · Figma · Lucidchart · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion
 
 ---
 
 ## Operating Systems
 
-- macOS
-- Windows
+macOS · Windows
 
 ---
 
 ## Certifications
 
-- C++
-- Java
-- JavaScript
-- Python
-- HTML
+C++ · Java · JavaScript · Python · HTML
 
 ---
 
