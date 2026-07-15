@@ -58,7 +58,9 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 ---
 
-## Featured Work
+## Portfolio
+
+selected projects that show my growth across software development, accessible design, and problem-solving:
 
 | project | what it shows |
 | --- | --- |
