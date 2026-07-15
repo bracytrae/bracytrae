@@ -34,7 +34,7 @@ macOS · Windows
 
 ## Certifications
 
-C++ · Java · JavaScript · Python · HTML
+C++ · Java · JavaScript · Python · HTML · I'm currently working on my CSS certificate and am polishing my personal website 
 
 ---
 
