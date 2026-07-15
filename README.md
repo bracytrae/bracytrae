@@ -16,7 +16,7 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 ## Tech Stack
 
-Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · React
+Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua 
 
 ---
 
