@@ -60,13 +60,11 @@ I’m working toward becoming a backend/software engineer who builds clear, acce
 
 ## Certifications
 
-<p align="center">
-  <img alt="c++ certification" src="https://img.shields.io/badge/c%2B%2B-9BE9A8?style=for-the-badge&logo=cplusplus&logoColor=black" />
-  <img alt="java certification" src="https://img.shields.io/badge/java-9BE9A8?style=for-the-badge&logo=coffeescript&logoColor=black" />
-  <img alt="javascript certification" src="https://img.shields.io/badge/javascript-9BE9A8?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="python certification" src="https://img.shields.io/badge/python-9BE9A8?style=for-the-badge&logo=python&logoColor=black" />
-  <img alt="html certification" src="https://img.shields.io/badge/html5-9BE9A8?style=for-the-badge&logo=html5&logoColor=black" />
-</p>
+- C++
+- Java
+- JavaScript
+- Python
+- HTML
 
 ---
 
