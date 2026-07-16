@@ -60,7 +60,9 @@ C++ · Java · JavaScript · Python · HTML · I'm currently working on my CSS c
 - Repo that goes over the different use cases for visual tools that are used in programming. 
 - Even cleaner documentation.
 - Pushed DSA problems 
-- Repo's about SQL 
+- Repo's about SQL
+- Repolishing of Repos that already exist
+- Staying up to date with different programming methods and contributing to the proper implementation of the methods.  
   
 ---
 
