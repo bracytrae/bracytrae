@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-  I’m a Computer Science student & former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems through different uses and implementations of technology.
+  I’m a Computer Science student & former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems through different uses and implementations of technology; I'm currently a student and am trying to pinpoint an area of specialty, and am strongest w/ Python, machine learning, and backend programming. 
 </p>
 
 ---
