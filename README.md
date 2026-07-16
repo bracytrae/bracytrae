@@ -8,7 +8,7 @@
 
 ## About Me
 
-Python is my strongest language and the foundation I use to grow into Java, C++, and other technologies.
+Python is my strongest language and the language I use to grow into Java, C++, and other technologies.
 
 I’m working toward becoming a backend/software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
