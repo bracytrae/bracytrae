@@ -53,17 +53,7 @@ C++ · Java · JavaScript · Python · HTML · CSS (in-progress)
 ## What I'm Building Toward
 
 - behavioral progress trackers for goals, sessions, and progress over time
-- low-overwhelm study and learning tools for neurodivergent students
-- clear education and behavioral health data dashboards
-- reliable backend APIs for human-centered support systems
-- Repo that goes over the different inheritance types using Java. 
-- Repo that goes over the different use cases for visual tools that are used in programming. 
-- Even cleaner documentation.
-- Pushed DSA problems 
-- Repo's about SQL
-- Repolishing of Repos that already exist
-- Staying up to date with different programming methods via the language's documentation and contributing to the proper implementation of the methods.
-- Repo about different naming conventions 
+- DSA problems 
   
 ---
 
