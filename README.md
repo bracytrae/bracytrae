@@ -59,7 +59,7 @@ C++ · Java · JavaScript · Python · HTML · I'm currently working on my CSS c
 - Repo that goes over the different inheritance types using Java. 
 - Repo that goes over the different use cases for visual tools that are used in programming. 
 - Even cleaner documentation.
-- More info on DSA
+- Pushed DSA problems 
 - Repo's about SQL 
   
 ---
