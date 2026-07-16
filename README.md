@@ -56,9 +56,10 @@ C++ · Java · JavaScript · Python · HTML · I'm currently working on my CSS c
 - low-overwhelm study and learning tools for neurodivergent students
 - clear education and behavioral health data dashboards
 - reliable backend APIs for human-centered support systems
-- Visual representations for the different inheritance types, so a specific repo for this.
-- Even cleaner documentation 
-
+- Repo that goes over the different inheritance types using Java. 
+- Repo that goes over the different use cases for visual tools that are used in programming. 
+- Even cleaner documentation.
+  
 ---
 
 ## Learning Collections
