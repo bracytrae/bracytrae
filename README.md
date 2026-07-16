@@ -62,7 +62,8 @@ C++ · Java · JavaScript · Python · HTML · I'm currently working on my CSS c
 - Pushed DSA problems 
 - Repo's about SQL
 - Repolishing of Repos that already exist
-- Staying up to date with different programming methods via the language's documentation and contributing to the proper implementation of the methods.  
+- Staying up to date with different programming methods via the language's documentation and contributing to the proper implementation of the methods.
+- Repo about different naming conventions 
   
 ---
 
