@@ -34,7 +34,7 @@ macOS · Windows
 
 ## Certifications
 
-C++ · Java · JavaScript · Python · HTML · CSS (in-progress)
+C++ · Java · JavaScript · Python · HTML
 
 ---
 
