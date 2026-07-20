@@ -61,6 +61,6 @@ C++ · Java · JavaScript · Python · HTML
 
 smaller working exercises are grouped in one repository so my profile stays easier to navigate:
 
-Although these collections dont include everything I've practiced, they include all the collections that are complete and that I can thoroughly explain with clean documentation. 
+these collections dont include everything I've practiced, they include all the collections that are complete and that I can thoroughly explain with clean documentation. 
 
 - [bracytrae/practice-coll.](https://github.com/bracytrae/practice-coll.)
