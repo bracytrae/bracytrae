@@ -16,7 +16,7 @@ I can't live without learning, and I'm so grateful to have access to technology 
 
 ## Tech Stack
 
-Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua 
+Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · SQL 
 
 ---
 
