@@ -10,7 +10,9 @@
 
 I’m working toward becoming a software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
-I can't live without learning, and I'm so grateful to have access to technology that allows me to; turning complicated concepts into thorough, concise ideas.
+I can't live without learning, and I'm so grateful to have access to technology that allows me to turn complicated concepts into thorough, concise ideas.
+
+I value authenticity and embracing who we are; I'm a big advocate of self-development and want the best for everyone.
 
 ---
 
