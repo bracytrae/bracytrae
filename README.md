@@ -12,7 +12,7 @@ I’m working toward becoming a software engineer who builds clear, accessible s
 
 I can't live without learning, and I'm so grateful to have access to technology that allows me to turn complicated concepts into thorough, concise ideas.
 
-I value these executive functions in my life: authenticity, truthfulness, and morality.
+I value these things, which are executive functions in my life: authenticity, truthfulness, and morality.
 
 ---
 
