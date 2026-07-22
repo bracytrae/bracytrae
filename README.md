@@ -12,7 +12,7 @@ I’m working toward becoming a software engineer who builds clear, accessible s
 
 I can't live without learning, and I'm so grateful to have access to technology that allows me to turn complicated concepts into thorough, concise ideas.
 
-I value authenticity and embracing who we are; I'm a big advocate of self-development and want the best in everyone.
+I'm very empathetic, value authenticity and being truthful, and I do my absolute best to uplift others.
 
 ---
 
