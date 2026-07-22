@@ -10,8 +10,6 @@
 
 I’m working toward becoming a software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
-I can't live without learning, and I'm so grateful to have access to technology that allows me to turn complicated concepts into thorough, concise ideas.
-
 ---
 
 ## Tech Stack
