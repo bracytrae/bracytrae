@@ -10,6 +10,8 @@
 
 I’m working toward becoming a software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
+Building and uplifting other people is when I feel most alive. 
+
 ---
 
 ## Tech Stack
