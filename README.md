@@ -12,7 +12,7 @@ I’m working toward becoming a software engineer who builds clear, accessible s
 
 I can't live without learning, and I'm so grateful to have access to technology that allows me to turn complicated concepts into thorough, concise ideas.
 
-I'm very empathetic, value authenticity, truthfulness, and morality, and I do my absolute best to uplift others and make others happy.
+I value authenticity, truthfulness, and morality, and I do my absolute best to uplift others and make others happy.
 
 ---
 
