@@ -10,7 +10,7 @@
 
 I’m working toward becoming a software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
 
-Building and uplifting other people is when I feel most alive. 
+Building and uplifting other people is when I feel most alive & I love collaborating on concepts with others about things I enjoy, including philosophy, programming, of course, science, math, etc. & I love resolving problems; it's so important to me. 
 
 ---
 
