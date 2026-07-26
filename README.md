@@ -10,7 +10,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 
 I’m developing a broad software engineering foundation through coursework, independent study, and hands-on projects. My experience has made me care about clear communication, accessibility, and the people who use technology, but I’m open to working across industries and problem areas.
 
-I’m especially interested in opportunities where I can learn from a team, strengthen my engineering skills, and contribute to real products—whether that involves backend systems, frontend development, AI, developer tools, automation, data, security, or another area of software.
+I’m especially interested in opportunities where I can learn from a team, strengthen my engineering skills, and contribute to real products, whether that involves backend systems, frontend development, AI, developer tools, automation, data, security, or another area of software.
 
 I enjoy collaborating with others and exploring ideas in programming, philosophy, science, and mathematics.
 
