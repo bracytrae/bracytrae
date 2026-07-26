@@ -1,22 +1,24 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
- comp-sci student & former RBT <a href="https://www.fraser.org/">@Fraser</a>, focused on building software that supports accessible learning, neurodivergent individuals, & behavioral health systems through different uses and implementations of technology; I'm currently a student, and I love learning new things every day.
+Computer science student and former Registered Behavior Technician interested in software engineering, AI, and building reliable, useful technology. I enjoy learning new tools, solving problems, and contributing wherever thoughtful software can make work or everyday life better.
 </p>
 
 ---
 
 ## About Me
 
-I’m working toward becoming a software engineer who builds clear, accessible systems for neurodivergent people, caregivers, learners, and behavioral health teams.
+I’m developing a broad software engineering foundation through coursework, independent study, and hands-on projects. My experience has made me care about clear communication, accessibility, and the people who use technology, but I’m open to working across industries and problem areas.
 
-Building and uplifting other people is when I feel most alive & I love collaborating on concepts with others about things I enjoy, including philosophy, programming, of course, science, math, etc. 
+I’m especially interested in opportunities where I can learn from a team, strengthen my engineering skills, and contribute to real products—whether that involves backend systems, frontend development, AI, developer tools, automation, data, security, or another area of software.
+
+I enjoy collaborating with others and exploring ideas in programming, philosophy, science, and mathematics.
 
 ---
 
 ## Tech Stack
 
-Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · SQL 
+Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · SQL
 
 ---
 
@@ -42,33 +44,31 @@ C++ · Java · JavaScript · Python · HTML
 
 | project | what it shows |
 | --- | --- |
-| [bracytrae/py-voice-assistant](https://github.com/bracytrae/py-voice-assistant) | python desktop assistant with a UI, speech recognition, commands, and OpenAI API fallback |
-| [bracytrae/jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | java OOP shape calculator with geometry logic and JavaFX visualization |
+| [bracytrae/py-voice-assistant](https://github.com/bracytrae/py-voice-assistant) | Python desktop assistant with a UI, speech recognition, commands, threading, and OpenAI API integration |
+| [bracytrae/jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | Java OOP shape calculator with geometry logic and JavaFX visualization |
 | [bracytrae/resume](https://github.com/bracytrae/resume) | HTML/CSS resume site focused on layout, spacing, and presentation |
-| [bracytrae/ui-ux-dsgn](https://github.com/bracytrae/ui-ux-dsgn) | ui/ux notes, CodeDex visuals, and design concepts for accessible projects |
+| [bracytrae/ui-ux-dsgn](https://github.com/bracytrae/ui-ux-dsgn) | UI/UX notes and design concepts focused on creating clear, usable software |
 
 ---
 
-## What I'm Building Toward
+## What I'm Working On
 
-- behavioral progress trackers for goals, sessions, and progress over time
-- DSA problems solved and documented 
-- Possible Microsoft Certifications
-- Security Certifications
-- Github Foundations Certification
-  
+- Solving and documenting data structures and algorithms problems
+- Strengthening object-oriented programming and system design fundamentals
+- Exploring AI, security, and modern software development tools
+- Building projects that demonstrate practical engineering skills
+
 ---
 
-## DSA Problems 
+## DSA Practice
 
 - [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions)
+- 3/120 problems completed
 
-- 3/120 DSA Problems 
+---
 
 ## Learning Collections
 
-smaller working exercises are grouped in one repository so my profile stays easier to navigate:
+Smaller working exercises are grouped into focused repositories so my profile stays easy to navigate. These collections highlight work I can explain clearly and have documented for future reference.
 
-these collections dont include everything I've practiced, they include all the collections that are complete and that I can thoroughly explain with clean documentation. 
-
-- [bracytrae/practice-coll.](https://github.com/bracytrae/practice-coll.)
+- [bracytrae/practice-collections](https://github.com/bracytrae/practice-collections)
