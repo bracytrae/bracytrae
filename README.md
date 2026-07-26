@@ -52,15 +52,18 @@ C++ · Java · JavaScript · Python · HTML
 ## What I'm Building Toward
 
 - behavioral progress trackers for goals, sessions, and progress over time
-- 120 DSA problems solved and documented 
+- DSA problems solved and documented 
 - Possible Microsoft Certifications
 - Security Certifications
+- Github Foundations Certification
   
 ---
 
 ## DSA Problems 
 
-- [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions) 
+- [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions)
+
+- 3/120 DSA Problems 
 
 ## Learning Collections
 
