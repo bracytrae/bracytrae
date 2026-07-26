@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-Computer science student and former Registered Behavior Technician interested in software engineering, AI, and building reliable, useful technology. I enjoy learning new tools, solving problems, and contributing wherever thoughtful software can make work or everyday life better.
+Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and building reliable, useful technology. I enjoy learning new tools, solving problems, and contributing wherever thoughtful software can make work or everyday life better.
 </p>
 
 ---
