@@ -52,7 +52,9 @@ C++ · Java · JavaScript · Python · HTML
 ## What I'm Building Toward
 
 - behavioral progress trackers for goals, sessions, and progress over time
-- DSA problems 
+- 120 DSA problems solved and documented 
+- Possible Microsoft Certifications
+- Security Certifications
   
 ---
 
