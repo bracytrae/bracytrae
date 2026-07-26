@@ -45,7 +45,6 @@ C++ · Java · JavaScript · Python · HTML
 | [bracytrae/py-voice-assistant](https://github.com/bracytrae/py-voice-assistant) | python desktop assistant with a UI, speech recognition, commands, and OpenAI API fallback |
 | [bracytrae/jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | java OOP shape calculator with geometry logic and JavaFX visualization |
 | [bracytrae/resume](https://github.com/bracytrae/resume) | HTML/CSS resume site focused on layout, spacing, and presentation |
-| [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions) | ongoing data structures and algorithms practice from NeetCode |
 | [bracytrae/ui-ux-dsgn](https://github.com/bracytrae/ui-ux-dsgn) | ui/ux notes, CodeDex visuals, and design concepts for accessible projects |
 
 ---
@@ -56,6 +55,10 @@ C++ · Java · JavaScript · Python · HTML
 - DSA problems 
   
 ---
+
+## DSA Problems 
+
+| [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions) | ongoing data structures and algorithms practice from NeetCode |
 
 ## Learning Collections
 
