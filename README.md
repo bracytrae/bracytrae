@@ -58,7 +58,7 @@ C++ · Java · JavaScript · Python · HTML
 
 ## DSA Problems 
 
-| [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions) | ongoing data structures and algorithms practice from NeetCode |
+- [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions) 
 
 ## Learning Collections
 
