@@ -23,6 +23,8 @@ I’m building my software engineering skills through coursework and hands-on pr
 | [jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
 | [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
+**repo's in progress include - foundations-of-ai & disc-math-c.s.**
+
 ## Currently Learning
 
 - Data structures and algorithms
@@ -33,7 +35,5 @@ I’m building my software engineering skills through coursework and hands-on pr
 |DSA Solutions| General Practice|
 | --- | --- |
 |[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
-
-repo's in progress include - foundations-of-ai & disc-math-c.s.
 
 psst, I love Codedex; they've helped me so much <3!
