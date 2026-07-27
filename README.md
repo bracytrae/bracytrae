@@ -19,9 +19,9 @@ I’m building my software engineering skills through coursework and hands-on pr
 
 | Project | Focus |
 | --- | --- |
-| [Voice Assistant](https://github.com/bracytrae/py-voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
-| [Shape Calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
-| [Resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
+| [voice assistant](https://github.com/bracytrae/py-voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
+| [shape calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
+| [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
 ## Currently Learning
 
@@ -30,4 +30,6 @@ I’m building my software engineering skills through coursework and hands-on pr
 - AI, security, and modern development tools
 - GitHub Foundations Certification 
 
-[DSA practice](https://github.com/bracytrae/dsa-solutions) · [Practice collections](https://github.com/bracytrae/practice-collections)
+- [dsa practice](https://github.com/bracytrae/dsa-solutions) 
+
+- [practice collections](https://github.com/bracytrae/practice-collections)
