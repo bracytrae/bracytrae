@@ -12,7 +12,8 @@ I’m building my software engineering skills through coursework and hands-on pr
 
 **Languages:** Python · Java · C++ · JavaScript · HTML · CSS · SQL · Lua  
 **Libraries:** NumPy · Pandas · Matplotlib  
-**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · PyCharm · CLion · Figma
+**Tools:** Git · GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart
+**Operating Systems:** Mac & Windows 
 
 ## Featured Work
 
@@ -26,7 +27,8 @@ I’m building my software engineering skills through coursework and hands-on pr
 ## Currently Learning
 
 - Data structures and algorithms
-- Object-oriented programming and system design
+- More exposure to system design
 - AI, security, and modern development tools
+- GitHub Foundations Certification 
 
 [DSA practice](https://github.com/bracytrae/dsa-solutions) · [Practice collections](https://github.com/bracytrae/practice-collections)
