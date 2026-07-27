@@ -22,7 +22,6 @@ I’m building my software engineering skills through coursework and hands-on pr
 | [Voice Assistant](https://github.com/bracytrae/py-voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
 | [Shape Calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
 | [Resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
-| [UI/UX Design](https://github.com/bracytrae/ui-ux-dsgn) | Clear, usable, and accessible design concepts |
 
 ## Currently Learning
 
