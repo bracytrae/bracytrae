@@ -30,5 +30,6 @@ I’m building my software engineering skills through coursework and hands-on pr
 - AI, security, and modern development tools
 - GitHub Foundations Certification 
 
-[dsa practice](https://github.com/bracytrae/dsa-solutions) 
-[practice collections](https://github.com/bracytrae/practice-collections)
+|DSA Solutions| General Practice|
+| --- | --- |
+|[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
