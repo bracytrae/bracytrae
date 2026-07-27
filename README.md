@@ -1,74 +1,32 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and building reliable, useful technology. I enjoy learning new tools, solving problems, and contributing wherever thoughtful software can make work or everyday life better.
+Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and useful technology.
 </p>
-
----
 
 ## About Me
 
-I’m developing a broad software engineering foundation through coursework, independent study, and hands-on projects. My experience has made me care about clear communication, accessibility, and the people who use technology, but I’m open to working across industries and problem areas.
+I’m building my software engineering skills through coursework and hands-on projects. I care about clear, accessible technology and am open to learning across different industries and areas of software.
 
-I’m especially interested in opportunities where I can learn from a team, strengthen my engineering skills, and contribute to real products, whether that involves backend systems, frontend development, AI, developer tools, automation, data, security, or another area of software.
+## Skills
 
-I enjoy collaborating with others and exploring ideas in programming, philosophy, science, and mathematics.
-
----
-
-## Tech Stack
-
-Python · NumPy · Pandas · Matplotlib · Java · C++ · HTML5 · CSS · JavaScript · Lua · SQL
-
----
-
-## Development Tools
-
-Git · GitHub · Codex · Figma · Lucidchart · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion
-
----
-
-## Operating Systems
-
-macOS · Windows
-
----
-
-## Certifications
-
-C++ · Java · JavaScript · Python · HTML
-
----
+**Languages:** Python · Java · C++ · JavaScript · HTML · CSS · SQL · Lua  
+**Libraries:** NumPy · Pandas · Matplotlib  
+**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · PyCharm · CLion · Figma
 
 ## Featured Work
 
-| project | what it shows |
+| Project | Focus |
 | --- | --- |
-| [bracytrae/py-voice-assistant](https://github.com/bracytrae/py-voice-assistant) | Python desktop assistant with a UI, speech recognition, commands, threading, and OpenAI API integration |
-| [bracytrae/jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | Java OOP shape calculator with geometry logic and JavaFX visualization |
-| [bracytrae/resume](https://github.com/bracytrae/resume) | HTML/CSS resume site focused on layout, spacing, and presentation |
-| [bracytrae/ui-ux-dsgn](https://github.com/bracytrae/ui-ux-dsgn) | UI/UX notes and design concepts focused on creating clear, usable software |
+| [Voice Assistant](https://github.com/bracytrae/py-voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
+| [Shape Calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
+| [Resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
+| [UI/UX Design](https://github.com/bracytrae/ui-ux-dsgn) | Clear, usable, and accessible design concepts |
 
----
+## Currently Learning
 
-## What I'm Working On
+- Data structures and algorithms
+- Object-oriented programming and system design
+- AI, security, and modern development tools
 
-- Solving and documenting data structures and algorithms problems
-- Strengthening object-oriented programming and system design fundamentals
-- Exploring AI, security, and modern software development tools
-- Building projects that demonstrate practical engineering skills
-
----
-
-## DSA Practice
-
-- [bracytrae/dsa-solutions](https://github.com/bracytrae/dsa-solutions)
-- 3/120 problems completed
-
----
-
-## Learning Collections
-
-Smaller working exercises are grouped into focused repositories so my profile stays easy to navigate. These collections highlight work I can explain clearly and have documented for future reference.
-
-- [bracytrae/practice-collections](https://github.com/bracytrae/practice-collections)
+[DSA practice](https://github.com/bracytrae/dsa-solutions) · [Practice collections](https://github.com/bracytrae/practice-collections)
