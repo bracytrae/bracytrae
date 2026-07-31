@@ -36,3 +36,5 @@ I’m building my software engineering skills through coursework and hands-on pr
 |[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
 
 psst, I love Codedex; they've helped me so much <3!
+
+DSA progress: **5/150** 
