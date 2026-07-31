@@ -24,8 +24,6 @@ I’m building my software engineering skills through coursework and hands-on pr
 | [jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
 | [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
-**repo's in progress include - foundations-of-ai & disc-math-c.s.**
-
 ## Currently Learning
 
 - Data structures and algorithms
