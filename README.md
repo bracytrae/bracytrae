@@ -37,4 +37,8 @@ I’m building my software engineering skills through coursework and hands-on ex
 
 [time-complexity](https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php)
 
-DSA progress: **6/150** 
+&
+
+[space-complexity](https://www.geeksforgeeks.org/dsa/g-fact-86/)
+
+dsa progress: **6/150** 
