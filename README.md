@@ -37,4 +37,4 @@ I’m building my software engineering skills through coursework and hands-on pr
 
 psst, I love Codedex; they've helped me so much <3!
 
-DSA progress: **5/150** 
+DSA progress: **6/150** 
