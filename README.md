@@ -35,6 +35,9 @@ I’m building my software engineering skills through coursework and hands-on ex
 | --- | --- |
 |[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
 
+understanding time complexity -->
+[time-complexity](https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php)
+
 psst, I love Codedex; they've helped me so much <3!
 
 DSA progress: **6/150** 
