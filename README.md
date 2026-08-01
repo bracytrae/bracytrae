@@ -33,10 +33,4 @@ I’m building my software engineering skills through coursework and hands-on ex
 | --- | --- |
 |[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
 
-[time-complexity](https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php)
-
-&
-
-[space-complexity](https://www.geeksforgeeks.org/dsa/g-fact-86/)
-
 dsa prog. - **6/150 solutions** 
