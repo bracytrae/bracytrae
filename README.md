@@ -26,10 +26,8 @@ I’m building my software engineering skills through coursework and hands-on ex
 
 ## Currently Learning
 
-- Data structures and algorithms
+- data structures & algorithms
 - More exposure to system design
-- AI, security, and modern development tools
-- GitHub Foundations Certification 
 
 |DSA Solutions| General Practice|
 | --- | --- |
