@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Trae; I love STEM and learning!</h1>
+<h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
 Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and useful technology.
