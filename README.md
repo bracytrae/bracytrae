@@ -6,7 +6,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 
 ## About Me
 
-I’m building my software engineering skills through coursework and hands-on projects. I care about clear, accessible technology and am open to learning across different industries and areas of software, and I'm just doing what makes me happy.
+I’m building my software engineering skills through coursework and hands-on experience; I absolutely love STEM because I love learning and refining skills and systems. I care about clear, accessible technology and am open to learning across different industries and areas of software, and I'm just doing what makes me happy.
 
 ## Skills
 
