@@ -22,7 +22,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 ## Skills
 
 **Languages:** Python · Java · C++ · JavaScript · HTML · CSS · SQL · Lua  
-**Frameworks:** to be determined... (I've worked with many but want to be sure before I list any that I have a solid foundation of how they work) 
+**Frameworks:** to be determined... 
 **Libraries:** NumPy · Pandas · Matplotlib  
 **Tools:** Git · GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart
 
