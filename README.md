@@ -20,8 +20,8 @@ I’m building my software engineering skills through coursework and hands-on ex
 
 | Project | Focus |
 | --- | --- |
-| [py-voice-assistant](https://github.com/bracytrae/py-voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
-| [jv-shape-calculator](https://github.com/bracytrae/jv-shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
+| [voice-assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
+| [shape-calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
 | [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
 ## Currently Learning
