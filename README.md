@@ -39,4 +39,4 @@ I’m building my software engineering skills through coursework and hands-on pr
 | --- | --- |
 | [dsa-solutions](https://github.com/bracytrae/dsa-solutions) | [practice-collections](https://github.com/bracytrae/practice-collections) |
 
-**DSA progress:** 6 of 150 problems completed
+<sub><em>**dsa progress -** 6 of 150 problems completed</em></sub> 
