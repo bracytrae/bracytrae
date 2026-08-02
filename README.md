@@ -39,7 +39,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 ## Currently Learning
 
 - data structures and algorithms
-- system design fundamentals
+- computer architecture/system design 
 
 | DSA Solutions | General Practice |
 | --- | --- |
