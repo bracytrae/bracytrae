@@ -5,7 +5,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 </p>
 
 <p align="center">
-  <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="650">
+  <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="280">
 </p>
 
 ## About Me
