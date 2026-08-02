@@ -4,7 +4,7 @@
 Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and useful technology.
 </p>
 
-<p align="center">
+<p align="left">
   <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="120">
 </p>
 
