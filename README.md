@@ -9,7 +9,8 @@ Computer science student and former Registered Behavior Trainee interested in so
 <table>
   <tr>
     <td width="80%" valign="middle">
-      I’m building my software engineering skills through coursework and hands-on projects. I enjoy STEM because it gives me opportunities to learn, solve problems, and improve systems. I care about creating clear, accessible technology and am excited to grow across different areas as I push into becoming a software engineer.
+      I’m developing my software engineering skills through coursework, independent learning, and hands-on projects. I’m drawn to technology because it allows me to recognize patterns, solve meaningful problems through those patterns, and turn additive ideas into systems that improve the lives of others. My background working as an RBT has deeply strengthened my ability to create clear, accessible, and human-centered software. As I continue growing as a software engineer, I hope to build technology that creates significant impact in improving our world.
+
     </td>
     <td width="20%" align="center" valign="middle">
       <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="120">
