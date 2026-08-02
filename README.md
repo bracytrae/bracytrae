@@ -32,8 +32,8 @@ I’m building my software engineering skills through coursework and hands-on pr
 
 ## Currently Learning
 
-- Data structures and algorithms
-- System design fundamentals
+- data structures and algorithms
+- system design fundamentals
 
 | DSA Solutions | General Practice |
 | --- | --- |
