@@ -4,13 +4,15 @@
 Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and useful technology.
 </p>
 
+## About Me
+
+<p align="center">
+I’m building my software engineering skills through coursework and hands-on experience; I absolutely love STEM because I love learning and refining skills and systems. I care about clear, accessible technology and am open to learning across different industries and areas of software, and I'm just doing what makes me happy.
+</p>
+
 <p align="left">
   <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="120">
 </p>
-
-## About Me
-
-I’m building my software engineering skills through coursework and hands-on experience; I absolutely love STEM because I love learning and refining skills and systems. I care about clear, accessible technology and am open to learning across different industries and areas of software, and I'm just doing what makes me happy.
 
 ## Skills
 
