@@ -21,7 +21,7 @@ Computer science student and former Registered Behavior Trainee interested in so
 
 ## Beyond Software Engineering
 
-Alongside my technical interests, I bring an outgoing, people-oriented perspective to software engineering. My behavioral-health background strengthened my communication, empathy, and ability to design with other people.
+Alongside my technical interests, I bring an outgoing, people-oriented perspective to software engineering. My behavioral-health background has enhanced my perspective overall with communication, empathy, and my ability to design with other people.
 
 ## Skills
 
