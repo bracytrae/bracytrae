@@ -12,6 +12,8 @@ I’m building my software engineering skills through coursework and hands-on ex
 
 <p align="left">
   <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="120">
+  <br>
+  <sub><em>That’s me, behind the flowers.</em></sub>
 </p>
 
 ## Skills
