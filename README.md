@@ -4,17 +4,15 @@
 Computer science student and former Registered Behavior Trainee interested in software engineering, AI, and useful technology.
 </p>
 
-## About Me
-
 <p align="center">
-I’m building my software engineering skills through coursework and hands-on experience; I absolutely love STEM because I love learning and refining skills and systems. I care about clear, accessible technology and am open to learning across different industries and areas of software, and I'm just doing what makes me happy.
-</p>
-
-<p align="left">
   <img src="assets/profile-photo.jpg" alt="Trae carrying a floral arrangement" width="120">
   <br>
   <sub><em>That’s me, behind the flowers.</em></sub>
 </p>
+
+## About Me
+
+I’m building my software engineering skills through coursework and hands-on projects. I enjoy STEM because it gives me opportunities to learn, solve problems, and improve systems. I care about creating clear, accessible technology and am excited to grow across different areas of software development.
 
 ## Skills
 
@@ -34,11 +32,11 @@ I’m building my software engineering skills through coursework and hands-on ex
 
 ## Currently Learning
 
-- data structures & algorithms
-- More exposure to system design
+- Data structures and algorithms
+- System design fundamentals
 
-|DSA Solutions| General Practice|
+| DSA Solutions | General Practice |
 | --- | --- |
-|[dsa-solutions](https://github.com/bracytrae/dsa-solutions) |[practice-collections](https://github.com/bracytrae/practice-collections)|
+| [dsa-solutions](https://github.com/bracytrae/dsa-solutions) | [practice-collections](https://github.com/bracytrae/practice-collections) |
 
-dsa prog. - **6/150 solutions** 
+**DSA progress:** 6 of 150 problems completed
