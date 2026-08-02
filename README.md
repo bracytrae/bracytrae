@@ -28,6 +28,7 @@ Alongside my technical interests, I bring an outgoing, people-oriented perspecti
 **Languages:** Python · Java · C++ · JavaScript · HTML · CSS · SQL · Lua  
 **Frameworks:** to be determined...  
 **Libraries:** NumPy · Pandas · Matplotlib  
+**Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming  
 **Tools:** Git · GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart
 
 **Operating Systems:** Mac & Windows 
