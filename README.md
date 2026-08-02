@@ -41,4 +41,4 @@ I’m building my software engineering skills through coursework and hands-on pr
 
 <sub><em> **dsa progress -** 6 of 150 problems completed </em></sub> 
 
-<sub><em> psst Codedex has been pivotal for me as a developing Software Engineer <3 </em></sub> 
+<sub><em> Psst... Codédex has been pivotal to my growth as a software engineer. <3 </em></sub> 
