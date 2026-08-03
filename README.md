@@ -56,4 +56,4 @@ Alongside my technical interests, I bring an outgoing, people-oriented perspecti
 
 ## Currently Building 
 
-I'm looking to work on upcoming projects to improve my cv and prepare for possible future hackathons.
+I'm building an adaptive routine planner for neurodivergent students that is currently in-progress [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) 
