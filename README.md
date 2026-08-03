@@ -22,7 +22,7 @@ Alongside my technical interests, I bring an outgoing, people-oriented perspecti
 
 ## Skills
 
-**Languages:** Python · Java · C++ · JavaScript · HTML · CSS · SQL · Lua  
+**Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua 
 **Frameworks:** to be determined...  
 **Libraries:** NumPy · Pandas · Matplotlib  
 **Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming  
