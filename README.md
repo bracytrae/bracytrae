@@ -12,7 +12,7 @@ I’m developing my software engineering skills through coursework, independent 
 
 As I continue growing as a software engineer, I hope to create authentic documented work, and build technology that creates significant impact in improving the world.
 
-My goal is also to maximize the technology I have at my dispoable and use it for good and gain as much exposure to different tools as I can throughout my career 
+My goal is also to maximize the technology I have at my disposable and use it for good and gain as much exposure to different tools as I can throughout my career and the best way I can do that is by refining fundamental skills and applying them to current technologies like AI.
 
 </td>
 
