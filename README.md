@@ -46,3 +46,7 @@ Alongside my technical interests, I bring an outgoing, people-oriented perspecti
 <sub><em> **dsa progress -** 6 of 150 problems completed </em></sub> 
 
 <sub><em> Psst... Codédex has been pivotal to my growth as a software engineer. <3 </em></sub> 
+
+## Currently Building 
+
+I'm looking to work on upcoming projects to improve my cv and prepare for possible future hackathons.
