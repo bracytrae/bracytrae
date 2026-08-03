@@ -55,7 +55,7 @@ Alongside my technical interests, I bring an outgoing, people-oriented perspecti
 
 I'm building an adaptive routine planner for students that is currently in-progress: [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) 
 
-** a second behavioral health app for understanding neurodivergent behavior in children and how to record it and take action on implementing healthier behavior so essentially an app for parents learning as a care taker for a neurodivergent child.
+** a second behavioral health app for understanding neurodivergent behavior in children and how to record it and take action on implementing healthier behavior so essentially an app for parents learning as a care taker for there neurodivergent child.
 
 ## Future plans 
 
