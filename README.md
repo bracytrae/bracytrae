@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Trae</h1>
+<h1 align="center">Hey, I'm Trae 👋</h1>
 
 <p align="center">
 Computer science student and former Registered Behavior Trainee interested in helping others through software engineering, AI, and the practical use of technology.
@@ -6,57 +6,48 @@ Computer science student and former Registered Behavior Trainee interested in he
 
 ## About Me
 
-<td width="80%" valign="middle">
-  
-I’m developing my software engineering skills through coursework, independent learning / google documents, and hands-on projects. I’m drawn to technology because it allows me to recognize patterns, solve meaningful problems through those patterns, and turn additive ideas into systems that improve the lives of others.
+I'm developing my software engineering skills through coursework, independent learning, and hands-on projects. I'm drawn to technology because it allows me to recognize patterns, solve meaningful problems, and turn ideas into systems that improve people's lives.
 
-As I continue growing as a software engineer, I hope to create authentic documented work, and build technology that creates significant impact in improving the world.
-
-My goal is also to maximize the technology I have at my disposable and use it for good and gain as much exposure to different tools as I can throughout my career and the best way I can do that is by refining fundamental skills and applying them to current technologies like AI.
-
-</td>
+As I grow as a software engineer, I want to create thoughtful, well-documented work and build technology that makes a meaningful impact. I'm also focused on making the most of the technology available to me, exploring new tools, and strengthening the fundamentals that help me apply emerging technologies like AI effectively.
 
 ## Beyond Software Engineering
 
-Alongside my technical interests, I bring an outgoing, people-oriented perspective to software engineering. My behavioral-health background has enhanced my perspective overall with communication, empathy, and my ability to design with other people.
+I bring an outgoing, people-oriented perspective to software engineering. My background in behavioral health has strengthened my communication, empathy, and ability to design with people in mind.
 
 ## Skills
 
 **Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua  
-**Frameworks:** to be determined...  
 **Libraries:** NumPy · Pandas · Matplotlib  
 **Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming  
-**Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart 
-
-**Operating Systems:** Mac & Windows 
+**Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart  
+**Operating Systems:** macOS · Windows
 
 ## Featured Work
 
 | Project | Focus |
 | --- | --- |
-| [voice-assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
-| [shape-calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
-| [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
+| [Voice Assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
+| [Shape Calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
+| [Resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
 ## Currently Learning
 
-- data structures and algorithms
-- computer architecture/system design 
+- Data structures and algorithms
+- Computer architecture and system design
 
 | DSA Solutions | General Practice |
 | --- | --- |
 | [dsa-solutions](https://github.com/bracytrae/dsa-solutions) | [practice-collections](https://github.com/bracytrae/practice-collections) |
 
-<sub><em> **dsa progress -** 6 of 150 problems completed </em></sub> 
+<sub><em>DSA progress: 6 of 150 problems completed</em></sub>
 
-<sub><em> Psst... Codédex has been pivotal to my growth as a software engineer. <3 </em></sub> 
+<sub><em>Psst... Codédex has been pivotal to my growth as a software engineer. &lt;3</em></sub>
 
-## Currently Building 
+## Currently Building
 
-I'm building an adaptive routine planner for students that is currently in-progress: [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) 
+- [Adaptive Routine Planner](https://github.com/bracytrae/adaptive-routine-planner) — an adaptive routine-planning tool for students
+- A behavioral-health app that helps parents understand, document, and respond to behaviors in neurodivergent children
 
-** a second behavioral health app for understanding neurodivergent behavior in children and how to record it and take action on implementing healthier behavior so essentially an app for parents learning as a primary care taker for there neurodivergent child.
+## Future Plans
 
-## Future plans 
-
-contribute to open source projects regarding health care. 
+I hope to contribute to open-source projects in healthcare and continue building technology that supports people in practical, meaningful ways.
