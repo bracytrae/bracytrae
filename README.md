@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Trae 👋</h1>
+<h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
 Computer science student and former Registered Behavior Trainee interested in helping others through software engineering, AI, and the practical use of technology.
