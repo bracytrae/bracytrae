@@ -51,3 +51,5 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 ## Future Plans
 
 I hope to contribute to open-source projects in healthcare and continue building technology that supports people in practical, meaningful ways.
+
+I also want to get the ai-103 certificate to demonstrate that I can properly apply AI to app solutions.
