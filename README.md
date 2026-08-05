@@ -45,5 +45,7 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 
 ## Currently Building
 
-- [Adaptive Routine Planner](https://github.com/bracytrae/adaptive-routine-planner) — an adaptive routine-planning tool for students
-- A behavioral-health app that helps parents understand, document, and respond to behaviors in neurodivergent children
+- [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner)
+- [neurodivergent-behavioral-health-app](https://github.com/bracytrae/neurodivergent-behavioral-health-app)
+
+
