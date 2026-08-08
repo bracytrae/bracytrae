@@ -26,9 +26,9 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 
 | Project | Focus |
 | --- | --- |
-| [Voice Assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
-| [Shape Calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
-| [Resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
+| [voice-assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
+| [shape-calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
+| [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
 ## Currently Learning
 
