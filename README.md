@@ -18,7 +18,7 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 
 **Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua  
 **Libraries:** NumPy · Pandas · Matplotlib  
-**Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming · Procedural Programming · Functional Programming  
+**Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming  
 **Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart  
 **Operating Systems:** macOS · Windows
 
