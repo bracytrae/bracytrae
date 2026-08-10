@@ -46,6 +46,6 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 ## Currently Building
 
 - [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) - website that will be open source
-- [neurodivergent-behavioral-health-app](https://github.com/bracytrae/neurodivergent-behavioral-health-app) - priority app to demonstrate system design/architecture 
+- [neurodivergent-behavioral-health-app](https://github.com/bracytrae/neurodivergent-behavioral-health-app) - priority app to demonstrate system design/architecture and exposure to systems of data like cache's
 
 
