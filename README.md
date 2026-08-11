@@ -28,7 +28,7 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 
 <sub><em>DSA progress: 15 of 100 problems completed and documented; I'm now working with linked lists.</em></sub>
 
-<sub><em>"I'm starting to recognize the patterns within DSA and understand how different concepts connect to one another. At first, it's intimidating, the exposure, the developing approach to problems you've never seen before, much of DSA comes down to understanding fundamental patterns across data structures and algorithms, it becomes so much more approachable and enjoyable oddly enough when you know this because it's not about how many problems you solve on paper but the patterns you recognize mentally along the way; building the mental maps necessary that would allow you to approach a problem effectively."</em></sub>
+<sub><em>"I'm beginning to recognize the patterns within DSA and understand how different concepts connect to one another. At first, it's intimidating, the exposure, the developing approach to problems you've never seen before, much of DSA comes down to understanding fundamental patterns across data structures and algorithms, it becomes so much more approachable and enjoyable oddly enough when you know this because it's not about how many problems you solve on paper but the patterns you recognize mentally along the way; building the mental maps necessary that would allow you to approach a problem effectively."</em></sub>
 
 <sub><em>Psst... Codédex has been pivotal to my growth as a software engineer. &lt;3</em></sub>
 
