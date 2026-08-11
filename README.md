@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Trae</h1>
 
 <p align="center">
-Computer science student and former Registered Behavior Trainee in Applied Behavior Analysis deeply connected to helping others through software engineering, AI, and the practical use of technology.
+Computer science student + former behavioral-health experience + software engineering/AI + deep passion for helping others.
 </p>
 
 ## About Me
