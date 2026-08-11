@@ -12,7 +12,7 @@ As I grow as a software engineer, I want to create thoughtful, well-documented w
 
 ## Beyond Software Engineering
 
-I bring an outgoing, people-oriented perspective to software engineering. My background in behavioral health has strengthened my communication, empathy, and ability to design with people in mind.
+I bring an outgoing, people-oriented perspective to software engineering and consistently design technology with people in mind as it is what I believe most important.
 
 ## Skills
 
