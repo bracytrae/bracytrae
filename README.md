@@ -22,14 +22,6 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 **Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart  
 **Operating Systems:** macOS · Windows
 
-## Featured Work
-
-| Project | Focus |
-| --- | --- |
-| [voice-assistant](https://github.com/bracytrae/voice-assistant) | Python, APIs, threading, speech recognition, and desktop UI |
-| [shape-calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
-| [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
-
 ## Currently Learning Data Structures & Algorithms
 
 [dsa-solutions](https://github.com/bracytrae/dsa-solutions) 
@@ -44,5 +36,3 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 
 - [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) - website that will be open source
 - [neurodivergent-behavioral-health-app](https://github.com/bracytrae/neurodivergent-behavioral-health-app) - priority app to demonstrate system design/architecture and exposure to systems of data like cache's
-
-
