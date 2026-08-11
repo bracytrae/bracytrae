@@ -30,14 +30,9 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 | [shape-calculator](https://github.com/bracytrae/shape-calculator) | Java, object-oriented programming, geometry, and JavaFX |
 | [resume](https://github.com/bracytrae/resume) | HTML, CSS, layout, and presentation |
 
-## Currently Learning
+## Currently Learning Data Structures & Algorithms
 
-- Data structures and algorithms
-- Computer architecture and system design
-
-| DSA Solutions | General Practice |
-| --- | --- |
-| [dsa-solutions](https://github.com/bracytrae/dsa-solutions) | [practice-collections](https://github.com/bracytrae/practice-collections) |
+[dsa-solutions](https://github.com/bracytrae/dsa-solutions) 
 
 <sub><em>DSA progress: 14 of 75 problems completed and documented; I'm now working with linked lists.</em></sub>
 
