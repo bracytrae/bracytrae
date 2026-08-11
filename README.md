@@ -39,7 +39,7 @@ I bring an outgoing, people-oriented perspective to software engineering. My bac
 | --- | --- |
 | [dsa-solutions](https://github.com/bracytrae/dsa-solutions) | [practice-collections](https://github.com/bracytrae/practice-collections) |
 
-<sub><em>DSA progress: 13 of 75 problems completed and documented; I'm now working with linked lists.</em></sub>
+<sub><em>DSA progress: 14 of 75 problems completed and documented; I'm now working with linked lists.</em></sub>
 
 <sub><em>Psst... Codédex has been pivotal to my growth as a software engineer. &lt;3</em></sub>
 
