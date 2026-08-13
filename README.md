@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Trae</h1>
+<h1 align="center">Hey, I'm Trae 🛰️</h1>
 
 <p align="center">
 Computer science student + former behavioral-health experience + software engineering/AI + deep passion for helping others.
