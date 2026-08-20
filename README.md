@@ -26,7 +26,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 [dsa-solutions](https://github.com/bracytrae/dsa-solutions) 
 
-<sub><em>DSA progress: 16 of 100 problems completed and documented; I'm now working with linked lists.</em></sub>
+<sub><em>DSA progress: 16 of 75 problems completed and documented; I'm now working with linked lists.</em></sub>
 
 <sub><em>"I'm beginning to recognize the patterns within data structures & algorithms and understand how different concepts connect to one another. At first, it's intimidating, the exposure, the developing approach to problems you've never seen before, much of dsa comes down to recognizing underlying and fundamental patterns, dsa is so much more approachable when you know this and enjoyable oddly enough because it's not about how many problems you solve on paper but the patterns you recognize mentally along the way; building the mental maps necessary that would allow you to approach different problems effectively."</em></sub>
 
