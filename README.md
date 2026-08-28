@@ -34,5 +34,4 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 ## Currently Building
 
-- [adaptive-routine-planner](https://github.com/bracytrae/adaptive-routine-planner) - in-progress...
-- [neurodivergent-behavioral-health-app](https://github.com/bracytrae/neurodivergent-behavioral-health-app) - in-progress...
+- rbt companion 
