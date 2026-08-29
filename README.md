@@ -19,7 +19,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 **Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua  
 **Libraries:** NumPy · Pandas · Matplotlib  
 **Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming  
-**Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Figma · Lucidchart  
+**Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Claude · Figma · Lucidchart  
 **Operating Systems:** macOS · Windows
 
 ## Currently Learning Data Structures & Algorithms
