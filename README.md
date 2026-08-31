@@ -34,4 +34,4 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 ## Currently Building
 
-- rbt companion 
+- rbt companion...
