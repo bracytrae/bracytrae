@@ -18,7 +18,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 **Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua  
 **Libraries:** NumPy · Pandas · Matplotlib  
-**Computer Science Foundations:** Discrete Mathematics · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming  
+**Computer Science Foundations:** Discrete Mathematics · Introduction to Probability and Statistics · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming  
 **Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Claude · Figma · Lucidchart  
 **Operating Systems:** macOS · Windows
 
@@ -29,8 +29,6 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 <sub><em>DSA progress including documentation: 15 of 75 problems completed</em></sub>
 
 <sub><em>"I'm beginning to recognize the patterns within data structures & algorithms and understand how different concepts connect to one another. At first, it's intimidating, the exposure, the developing approach to problems you've never seen before, much of dsa comes down to recognizing underlying and fundamental patterns, dsa is so much more approachable when you know this and enjoyable oddly enough because it's not about how many problems you solve on paper but the patterns you recognize mentally along the way; building the mental maps necessary that would allow you to approach different problems effectively."</em></sub>
-
-<sub><em>I've started my DSA class in College and am pushing to strengthening my DSA fundamentals through it and I've also start Introduction to Probability and Statistics which will help me with Python + Data Collection</em></sub>
 
 <sub><em>Psst... Codédex has been pivotal to my growth as a software engineer.. &lt;3</em></sub>
 
