@@ -16,9 +16,9 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 ## Skills
 
-**Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua  
+**Languages:** Python · Java · C++ · C# · JavaScript · HTML · CSS · SQL · Lua
 **Libraries:** NumPy · Pandas · Matplotlib  
-**Computer Science Foundations:** Discrete Mathematics · Introduction to Probability and Statistics · Data Structures and Algorithims · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming  
+**Computer Science Foundations:** Discrete Mathematics · Introduction to Probability and Statistics · Data Structures and Algorithims · Object-Oriented Programming · Procedural Programming · Functional Programming · Multi-paradigm Programming · Database Design
 **Tools:** Git/GitHub · Command Line · VS Code · IntelliJ IDEA · PyCharm · CLion · Codex · Claude · Figma · Lucidchart  
 **Operating Systems:** macOS · Windows
 
