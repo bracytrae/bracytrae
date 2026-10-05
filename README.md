@@ -32,6 +32,13 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 <sub><em>Psst... Codédex has been pivotal to my growth as a software engineer.. &lt;3.</em></sub>
 
+## Currently Interested In
+
+* DevOps & Deployment
+  
+  - GitHub Actions AI features
+  - GitLab AI
+    
 ## Currently Building
 
 - rbt companion....
