@@ -34,7 +34,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 ## Currently Interested In
 
-* DevOps & Deployment
+* DevOps & Deployment ("I'm finally ready!! I've prepared so long with gaining exposure to Computer Science, learning, learning, and learning, to finally jump into the things I care deeply about making and maintaining software.")
   
   - GitHub Actions AI features
   - GitLab AI
