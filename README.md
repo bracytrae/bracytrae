@@ -39,6 +39,8 @@ I bring an outgoing, people-oriented perspective to software engineering and con
   - GitHub Actions AI features
   - GitLab AI
     
+* Volunteering Leadership Opportunities + Internships (If possible)
+  
 <sub><em> "I'm finally ready and confident enough to pursue DevOps I didn't this day would arrive as soon as it has but I'm so incredibly happy :), just learning theory for long enough without applying learned material is not ideal." </em></sub>
 
 ## Currently Building
