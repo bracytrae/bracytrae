@@ -38,6 +38,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
   
   - GitHub Actions AI features
   - GitLab AI
+  - Mathematical approach to runtime complexity in DSA + understanding auxiliary space complexity
     
 * Volunteering Leadership Opportunities + Internships (If possible)
   
