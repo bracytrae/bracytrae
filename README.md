@@ -39,6 +39,7 @@ I bring an outgoing, people-oriented perspective to software engineering and con
   - GitHub Actions AI features
   - GitLab AI
   - Mathematical approach to runtime complexity in DSA + understanding auxiliary space complexity
+  - foundations of data-base design (PK, FK, relationships, ERD's, normalization, SQL commands, SQL joins, SQL clauses, referential integrity, etc.)
     
 * Volunteering Leadership Opportunities + Internships (If possible)
   
