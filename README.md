@@ -34,13 +34,14 @@ I bring an outgoing, people-oriented perspective to software engineering and con
 
 ## Currently Interested In
 
-* DevOps & Deployment 
-  
+* DevOps & Deployment
+
   - GitHub Actions AI features
   - GitLab AI
   - Mathematical approach to runtime complexity in DSA + understanding auxiliary space complexity
   - Foundations of data-base design (PK, FK, relationships, ERD's, normalization, SQL commands, SQL joins, SQL clauses, referential integrity, etc...)
-  - Docker image/containerization
+  - Docker image/Containerization
+  - Cloud Computing Fundamentals 
     
 * Volunteering Leadership Opportunities + Internships (If possible)
   
